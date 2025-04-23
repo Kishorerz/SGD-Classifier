@@ -65,8 +65,8 @@ print(cm)
 ```
 
 ## Output:
-![alt text](Image-1.png)
 
+{https://github.com/RoopakCS/SGD-Classifier/blob/main/Image-1.png)
 
 ![alt text](Image-2.png)
 
